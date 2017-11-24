@@ -1,4 +1,4 @@
-howlerjs.com
+howlerjs.com 这个JS库是一个音频库，可以应用在很多地方。
 =====================
 
 This repository contains the source code and acts as the host for [howlerjs.com](https://howlerjs.com), which is the official website for [howler.js](https://github.com/goldfire/howler.js).
